@@ -1,0 +1,18 @@
+[
+  {
+    "name": "cities",
+    "members": ["Bergen", "Trondheim", "Stavanger", "Drammen"]
+  },
+  {
+    "name": "medical specialties",
+    "members": ["Family", "Internal", "Nuclear", "Pediatrics"]
+  },
+  {
+    "name": "microsoft products",
+    "members": ["Teams", "Office", "Azure", "Windows"]
+  },
+  {
+    "name": "shorthair cats",
+    "members": ["British", "American", "Oriental", "Brazilian"]
+  }
+]
