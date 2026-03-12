@@ -153,7 +153,6 @@ function App() {
 
   const numCols = Math.min(groupCount, 8);
   const numRows = Math.max(4, Math.ceil(groupCount * wordsPerGroup / numCols));
-  console.log(wordsPerGroup, numCols, numRows);
 
   const style: React.CSSProperties = {
     gridTemplateColumns: `repeat(${numCols}, 1fr)`,
