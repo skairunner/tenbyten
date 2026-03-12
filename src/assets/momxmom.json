@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sysselsatt",
+    "members": ["Ku", "Jordbær", "Økonomi", "Søm", "Vann og avløp", "Engelsk"]
+  },
+  {
+    "name": "Statsledere",
+    "members": ["GWB", "JS", "TB", "WJC", "ES", "GHB"]
+  },
+  {
+    "name": "Strikking",
+    "members": ["SSK", "2sm", "CO", "K1P1", "DK", "Frogging"]
+  },
+  {
+    "name": "Kuriositeter hjemme",
+    "members": ["Maske", "Amate", "Maleri", "Kalebass", "Tørket bukett", "Symaskin"]
+  },
+  {
+    "name": "Flypasskoder",
+    "members": ["OSL", "AGP", "MCO", "JFK", "HEL", "LHR"]
+  },
+  {
+    "name": "Litt under syv sorter",
+    "members": ["Sjakkrute", "Kokosmakron", "Pepperkake", "Biscotti", "Vaniljekrans", "Berlinerkrans"]
+  }
+]
